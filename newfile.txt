@@ -1,6 +1,1 @@
-new file in dev branch
-<<<<<<< HEAD
-change in dev branch
-=======
-change in newrepository dev branch. 
->>>>>>> 99a768125c43e9cefa9b9d32b43e09dc0b7b5561
+file in dev branch
